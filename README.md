@@ -57,9 +57,9 @@ Instead of relying on extensive training data, this code uses a latent space to 
    pip install -r requirements.txt
 
 ## Usage
-```bash
 To execute the main training and model updating routine, run:
-   python main.py
+  ```bash
+  python main.py
 
 You can adjust configuration parameters such as model hyperparameters and data paths via a configuration file (e.g., config.yaml) or directly within the code.
 
@@ -67,15 +67,15 @@ You can adjust configuration parameters such as model hyperparameters and data p
 
 If you find this code useful in your research, please cite our work:
 ```bibtex
-@misc{lee2024latentspacebasedstochasticmodel,
-  title={Latent Space-based Stochastic Model Updating}, 
-  author={Sangwon Lee and Taro Yaoyama and Masaru Kitahara and Tatsuya Itoi},
-  year={2024},
-  eprint={2410.03150},
-  archivePrefix={arXiv},
-  primaryClass={stat.AP},
-  url={https://arxiv.org/abs/2410.03150}
-}
+  @misc{lee2024latentspacebasedstochasticmodel,
+    title={Latent Space-based Stochastic Model Updating}, 
+    author={Sangwon Lee and Taro Yaoyama and Masaru Kitahara and Tatsuya Itoi},
+    year={2024},
+    eprint={2410.03150},
+    archivePrefix={arXiv},
+    primaryClass={stat.AP},
+    url={https://arxiv.org/abs/2410.03150}
+  }
 
 License
 

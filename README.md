@@ -56,14 +56,14 @@ Instead of relying on extensive training data, this code uses a latent space to 
    ```bash
    pip install -r requirements.txt
 
-**Usage**
+##Usage
 ```bash
 To execute the main training and model updating routine, run:
    python main.py
 
 You can adjust configuration parameters such as model hyperparameters and data paths via a configuration file (e.g., config.yaml) or directly within the code.
 
-**Citation**
+##Citation
 
 If you find this code useful in your research, please cite our work:
 ```bibtex

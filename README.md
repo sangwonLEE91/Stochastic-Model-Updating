@@ -30,7 +30,7 @@ To execute the main model updating routine, run:
 
 If you find this code useful in your research, please cite our work:
 ```bibtex
-  @misc{lee2024latentspacebasedstochasticmodel,
+  @misc{lee2024lssmu,
     title={Latent Space-based Stochastic Model Updating}, 
     author={Sangwon Lee and Taro Yaoyama and Masaru Kitahara and Tatsuya Itoi},
     year={2024},

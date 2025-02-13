@@ -41,8 +41,5 @@ If you find this code useful in your research, please cite our work:
   }
 ```
 
-License
-
-This project is licensed under the [Your License Here] license.
 
    

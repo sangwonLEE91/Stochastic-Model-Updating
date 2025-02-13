@@ -46,20 +46,24 @@ Instead of relying on extensive training data, this code uses a latent space to 
    ```bash
    git clone https://github.com/yourusername/yourrepository.git
    cd yourrepository
+   ```
 
 2. **Create and Activate a Virtual Environment:**
    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```
 
 4. **Install Dependencies:**
    ```bash
    pip install -r requirements.txt
+   ```
 
 ## Usage
 To execute the main training and model updating routine, run:
   ```bash
   python main.py
+  ```
 
 You can adjust configuration parameters such as model hyperparameters and data paths via a configuration file (e.g., config.yaml) or directly within the code.
 
@@ -76,6 +80,7 @@ If you find this code useful in your research, please cite our work:
     primaryClass={stat.AP},
     url={https://arxiv.org/abs/2410.03150}
   }
+```
 
 License
 
